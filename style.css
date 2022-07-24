@@ -4,6 +4,15 @@ body {
   margin: 0;
 }
 
+.project-github {
+  text-decoration: none;
+  color: #ffffff;
+}
+.project-github:visited {
+  color: #ffffff;
+}
+
+
 * {
   box-sizing: border-box;
 }
@@ -124,10 +133,10 @@ body {
   padding: 20px;
 }
 
-/* .codechef {
-  
+.codechef {
 
-} */
+  
+}
 
 /*ARROW LINK*/
 #down-arrow {
